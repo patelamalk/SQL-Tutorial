@@ -1,6 +1,7 @@
 # Lern basics of SQL.
 
 |Concepts|
+|--------|
 |[createtable][crt]|
 |[copyTable][ct]|
 |[select][select]|
@@ -20,7 +21,7 @@
 |[outer join][oj]|
 |[right join][rj]|
 
-[//] # (Add the comments here. No formatting required)
+[//]: # (Add the comments here. No formatting required)
 
 [crt:<https://github.com/patelamalk/SQL_TA/blob/master/DataTypes/createTable.sql>
 [ct]:<https://github.com/patelamalk/SQL_TA/blob/master/DataTypes/createTable.sql>
