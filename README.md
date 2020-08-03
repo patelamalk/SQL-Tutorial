@@ -1,4 +1,18 @@
-# Lern basics of SQL.
+# Learn basics of SQL.
+
+**This was created as a part of SQL tuorial for MIS-636, Stevens Institute of Technology[Spring 2020]**
+
+**Please install the datasets directory locally before executing commands**
+
+Operating System
+```bash
+Windows 10
+```
+Database [Download Link][sql download]
+```bash
+PostgreSQL 9.2.0
+```
+
 
 |Concepts|
 |--------|
@@ -23,7 +37,7 @@
 
 [//]: # (Add the comments here. No formatting required)
 
-[crt:<https://github.com/patelamalk/SQL_TA/blob/master/DataTypes/createTable.sql>
+[crt]:<https://github.com/patelamalk/SQL_TA/blob/master/DataTypes/createTable.sql>
 [ct]:<https://github.com/patelamalk/SQL_TA/blob/master/DataTypes/createTable.sql>
 [altup]:<https://github.com/patelamalk/SQL_TA/blob/master/DataTypes/Console%20Games/alterUpdate.sql>
 [cast]:<https://github.com/patelamalk/SQL_TA/blob/master/DataTypes/Console%20Games/cast.sql>
@@ -41,3 +55,4 @@
 [mfj]:<https://github.com/patelamalk/SQL_TA/blob/master/Joins/multipleFieldJoin.sql>
 [oj]:<https://github.com/patelamalk/SQL_TA/blob/master/Joins/outerJoin.sql>
 [rj]:<https://github.com/patelamalk/SQL_TA/blob/master/Joins/rightJoin.sql>
+[sql download]:<https://www.postgresql.org/download/windows/>
